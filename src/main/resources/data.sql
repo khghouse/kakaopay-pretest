@@ -1,0 +1,9 @@
+INSERT INTO institute(institute_code, institute_name) VALUES('hcf', '주택도시기금');
+INSERT INTO institute(institute_code, institute_name) VALUES('kb', '국민은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('wr', '우리은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('sh', '신한은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('ct', '한국시티은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('hn', '하나은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('nh', '농협은행/수협은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('keb', '외환은행');
+INSERT INTO institute(institute_code, institute_name) VALUES('etc', '기타은행');
